@@ -16,3 +16,5 @@ Important Tips
 3 - Sometimes you need a weight from the front or back to stabilize the balance. 
 
 4 - Use a leather wheel, not a plastic one, as it tends to slip.
+
+5 - direction of sensor mpu6050 as in photo
